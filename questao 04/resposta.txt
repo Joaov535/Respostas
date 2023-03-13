@@ -1,0 +1,1 @@
+No momento em que cruzarem ambos estarão a mesma distância, levando em conta que o carro teria que pegar um retorno para voltar a direção à Ribeirão Preto e o caminhão já está em sentido à cidade, o caminhão está mais perto de Ribeirão Preto.
